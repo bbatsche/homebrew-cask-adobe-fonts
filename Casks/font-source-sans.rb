@@ -3,7 +3,6 @@ cask "font-source-sans" do
   sha256 "264e6272c2c197277584672e24914c40577aa08663be471be9138990b8c5aaff"
 
   url "https://github.com/adobe-fonts/source-sans/archive/refs/tags/#{version}R.tar.gz"
-  appcast "https://github.com/adobe-fonts/source-sans/releases.atom"
   name "Source Sans"
   homepage "https://github.com/adobe-fonts/source-sans"
 

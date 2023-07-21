@@ -3,7 +3,6 @@ cask "font-source-code-pro" do
   sha256 "d8f879fefd66ecb7291ea2d73984b9c0a97fb499424e58290ba6b81787d0c725"
 
   url "https://github.com/adobe-fonts/source-code-pro/archive/refs/tags/#{version.gsub(/(?<=ro)-|(?<=it)-/, "/")}.tar.gz"
-  appcast "https://github.com/adobe-fonts/source-code-pro/releases.atom"
   name "Source Code Pro"
   homepage "https://github.com/adobe-fonts/source-code-pro"
 

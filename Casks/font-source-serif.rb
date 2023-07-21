@@ -3,7 +3,6 @@ cask "font-source-serif" do
   sha256 "dfb364735699cb830caad534cf7741234804d28e4b6fc5e4736b2401f6131aba"
 
   url "https://github.com/adobe-fonts/source-serif/archive/refs/tags/#{version}R.tar.gz"
-  appcast "https://github.com/adobe-fonts/source-serif/releases.atom"
   name "Source Serif"
   homepage "https://github.com/adobe-fonts/source-serif"
 
